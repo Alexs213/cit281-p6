@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to Project 6
 
-You can use the [editor on GitHub](https://github.com/Alexs213/cit281-p6/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This week Project we had to create a class that to find the perimeter and area for a rectangle and triangle. Creating a total of three classes but two had to extend the first class we created onto the other ones.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+After completing this project, you will:
 
-### Markdown
+Gain experience creating and working classes with inheritance
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Gain more experience creating and working with classes
 
-```markdown
-Syntax highlighted code block
+Gain more experience debugging code
 
-# Header 1
-## Header 2
-### Header 3
+Gain more experience using a generic block of code to process data
 
-- Bulleted
-- List
+Gain more experience interpreting functional descriptions and specifications to complete an assignment
 
-1. Numbered
-2. List
+Gain more experience writing and executing non-web server Node.js JavaScript code using VSCode
 
-**Bold** and _Italic_ and `Code` text
+Practice using modern JavaScript syntax
 
-[Link](url) and ![Image](src)
-```
+Gain more experience working with static data
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alexs213/cit281-p6/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Project6](p6.png)
